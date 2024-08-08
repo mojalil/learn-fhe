@@ -26,9 +26,9 @@ Fully Homomorphic Encryption (FHE) is a form of encryption that allows computati
 
 ## Getting Started
 ### Beginner Guides
-- **[Orochi Network's Beginner's Guide to FHE](https://orochi.network/fully-homomorphic-encryption-beginners-guide)**: An accessible introduction covering the basics, applications, and current research directions in FHE.
-- **[LambdaClass Blog on FHE](https://blog.lambdaclass.com/introduction-to-fully-homomorphic-encryption)**: Detailed introduction to FHE, its history, key developments, and practical implementations.
-- **[Sunscreen Tech Blog](https://blog.sunscreen.tech/intro-to-fully-homomorphic-encryption-for-engineers)**: A deep dive into FHE for engineers, discussing computational models and trade-offs between different FHE schemes.
+- **[Orochi Network's Beginner's Guide to FHE](https://orochi.network/blog/Fully-Homomorphic-Encryption-(FHE)-A-Beginner-Guide)**: An accessible introduction covering the basics, applications, and current research directions in FHE.
+- **[LambdaClass Blog on FHE](https://blog.lambdaclass.com/fully-homomorphic-encryption/)**: Detailed introduction to FHE, its history, key developments, and practical implementations.
+- **[Sunscreen Tech Blog](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/)**: A deep dive into FHE for engineers, discussing computational models and trade-offs between different FHE schemes.
 
 ## Practical Implementations
 ### Libraries and Tools
@@ -47,7 +47,7 @@ Fully Homomorphic Encryption (FHE) is a form of encryption that allows computati
 
 ### Current Research
 - **[FHE.org Community](https://fhe.org)**: A hub for researchers and developers working on advancing FHE and other secure computation techniques.
-- **[Sunscreen Tech Blog](https://blog.sunscreen.tech/intro-to-fully-homomorphic-encryption-for-engineers)**: Insights into the latest challenges and developments in FHE.
+- **[Sunscreen Tech Blog](https://blog.sunscreen.tech/)**: Insights into the latest challenges and developments in FHE.
 
 ## Community and Contributions
 We welcome contributions to this repository! If you have any resources, papers, or tutorials to add, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
