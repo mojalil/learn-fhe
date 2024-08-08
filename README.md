@@ -1,13 +1,13 @@
-# Fully Homomorphic Encryption (FHE) Resources
+# Learn FHE
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/motypes.svg?style=social)](https://twitter.com/motypes)
 
-Welcome to the Fully Homomorphic Encryption (FHE) Resources repository. This repository aims to provide a curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption.
+Welcome to the Learn FHE repository. This repository aims to provide a curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE).
 
 ## Table of Contents
-- [Fully Homomorphic Encryption (FHE) Resources](#fully-homomorphic-encryption-fhe-resources)
+- [Learn FHE](#learn-fhe)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
@@ -35,6 +35,7 @@ Fully Homomorphic Encryption (FHE) is a form of encryption that allows computati
 - **[HElib](https://github.com/homenc/HElib)**: An open-source software library that implements homomorphic encryption (HE).
 - **[PALISADE](https://gitlab.com/palisade/palisade-release)**: A comprehensive open-source lattice cryptography library.
 - **[SEAL](https://github.com/Microsoft/SEAL)**: Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
+- **[Awesome-HE-Repo](https://github.com/jonaschn/awesome-he)**: A curated list of tools, libraries and resources
 
 ### Tutorials and Examples
 - **[Homomorphic Encryption Example](https://github.com/homenc/HElib/tree/master/examples)**: Example codes using the HElib library.
